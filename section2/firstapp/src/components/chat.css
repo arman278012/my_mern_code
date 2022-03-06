@@ -1,0 +1,30 @@
+.chat-area {
+    height: 80vh;
+    background: #ffdc9a;
+    overflow-y: auto;
+  }
+  .message-box {
+    border: 1px solid red;
+    margin-bottom: 2rem;
+    padding: 0.5rem;
+    width: fit-content;
+    max-width: 70%;
+    /* background-color: rgb(41, 238, 23); */
+  }
+  .message-text {
+    /* margin-left: 5px; */
+    margin: 0px;
+    color: #fff;
+
+  }
+  .message-sent{
+      background:linear-gradient(to right, #ff7300, #eb075e );
+      border-radius: 10px 0px 10px 10px;
+      margin-left: auto;
+      
+
+  }
+  .message-recieved{
+    background: linear-gradient(to right, #00cf80, #00d6cb);      border-radius: 0 10px 10px;
+
+  }

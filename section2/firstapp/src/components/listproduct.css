@@ -1,0 +1,13 @@
+.p-title{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.p-rating{
+    background-color: blueviolet;
+    color: #fff;
+    border-radius: 4px;
+    width: fit-content;
+    margin: o;
+    padding: 3px;
+
+}
